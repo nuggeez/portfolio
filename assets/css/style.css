@@ -515,7 +515,7 @@ section .container {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #18d26e;
+  background-color: #87cefa;
 }
 
 /*--------------------------------------------------------------
@@ -630,7 +630,7 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-# Resume
+# Hobbies
 --------------------------------------------------------------*/
 .resume .resume-title {
   font-size: 26px;
